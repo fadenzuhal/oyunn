@@ -89,3 +89,5 @@ public class çarpbitirbasla : MonoBehaviour
     }
 
 }
+
+// heyyy oldu muuu
